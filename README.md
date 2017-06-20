@@ -35,6 +35,7 @@ docker run -d -p 80:3000 --name docker-deployment-container docker-deployment:de
 Visit the IP address of your server in your browser
 <br>
 Point docker back to your local environment
+
 * Mac:
 <pre>
 eval $(docker-machine env -u)
